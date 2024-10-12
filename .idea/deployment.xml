@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="mc@222.197.211.254:6202 password" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="mc@222.197.211.254:6202 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/mc/R-Drop" local="$PROJECT_DIR$" web="/" />
+            <mapping local="" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="mc@222.197.211.254:6202 password (1)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="mc@222.197.211.254:6202 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="mc@222.197.211.254:6202 password (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/mc/fast" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.yza1.seetacloud.com:17935">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.yza1.seetacloud.com:42084 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/adapter-kd" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@connect.yza1.seetacloud.com:42084 password (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/adapter-kd" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
